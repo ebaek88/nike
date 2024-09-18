@@ -4,6 +4,8 @@ I have built a Nike clone webpage using React.js, Tailwind CSS, and Vite.
 
 I have deployed the webpage using Github Pages.
 
+The link to the webpage is [here](https://ebaek88.github.io/nike/).
+
 When creating the webpage, I referred to:
 
 - [Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website](https://youtu.be/tS7upsfuxmo?si=g5YoMxC48JvRUygx) for a guide
