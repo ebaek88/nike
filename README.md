@@ -1,6 +1,6 @@
 # Nike Clone Landing Page
 
-I have built a Nike clone webpage using React.js, Tailwind CSS, and Vite.
+I have built a responsive Nike clone webpage using React.js, Tailwind CSS, and Vite.
 
 I have deployed the webpage using Github Pages.
 
