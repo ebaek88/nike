@@ -1,4 +1,4 @@
-# Nike Clone Webpage
+# Nike Clone Landing Page
 
 I have built a Nike clone webpage using React.js, Tailwind CSS, and Vite.
 
